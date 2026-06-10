@@ -1,0 +1,35 @@
+{
+  "name": "Michael",
+  "location": "Fort Worth, TX",
+  "communication_style": "direct, slightly humorous, no fluff — get to the point but make it enjoyable",
+  "response_format": "short and actionable, throw in a little wit when it fits, never at the expense of clarity",
+  "work_hours": "8am - 6pm",
+  "priorities": [
+    "respond to leads fast",
+    "keep schedule tight",
+    "track money closely"
+  ],
+  "how_i_make_decisions": "give me pros and cons fast, I'll decide",
+  "things_i_hate": [
+    "long winded responses",
+    "corporate speak",
+    "being talked to like a robot"
+  ],
+  "things_i_love": [
+    "efficiency with personality",
+    "clear next steps",
+    "a little humor that actually lands"
+  ],
+  "email_style": "professional but warm, concise, always end with a clear next step",
+  "scheduling_rules": [
+    "no meetings before 9am",
+    "block 12-1pm daily",
+    "group similar tasks together"
+  ],
+  "finances": {
+    "track": true,
+    "goals": "add your goals here",
+    "investments": "add what you are tracking here"
+  },
+  "personal_notes": "anything else Nova should always remember"
+}
